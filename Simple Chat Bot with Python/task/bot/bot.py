@@ -16,4 +16,5 @@ remainder7 = int(input()) % 7
 age = (remainder3 * 70 + remainder5 * 21 + remainder7 * 15) % 105
 
 your_age = (age)
+
 print(f"Your age is {your_age}; that's a good time to start programming!")

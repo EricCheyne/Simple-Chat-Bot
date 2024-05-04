@@ -20,7 +20,6 @@ print("Now I will prove to you that I can count to any number you want.")
 
 # read a number and count to it here
 number = int(input())
-
 counter = 0
 while counter <= number:
     print(str(counter) + "!")
